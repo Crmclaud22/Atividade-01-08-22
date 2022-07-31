@@ -1,1 +1,2 @@
 Cria rotina de entrada de dados da pesquisa.
+Iniciando rotina de procedimentos.
